@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm Trần Duy Đức, a full-stack developer with 1-year experience in AngularJS, or, to be full, the MEAN stack. I had some experience with Google Apps Script to create complex apps in Google Sheets.
 
-In my free time, I work on my personal projects, with the most notable one being [my original music and video game music remixes](https://soundcloud.com/tduyduc), [all composed in a way similar to coding](https://www.youtube.com/channel/UCZHREXHRSxg4Lw8i0p4mKrw).
+In my free time, I work on my personal projects, with the most notable one being [my original music and video game music remixes](https://soundcloud.com/tduyduc), [all composed in a way similar to coding](https://www.youtube.com/channel/UCZHREXHRSxg4Lw8i0p4mKrw), which makes myself a "music developer".
 
 ---
 
