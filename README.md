@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **tduyduc/tduyduc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,52 +15,25 @@ Here are some ideas to get you started:
 
 ![T.D. Stoneheart's GitHub stats](https://github-readme-stats.vercel.app/api?username=tduyduc&theme=merko&show_icons=true&count_private=true)
 
-I'm Trần Duy Đức (given name is Đức), a software developer with 1-year experience in NestJS back-end development, and another 1-year experience in AngularJS, or, to be full, the MEAN stack. I had some experience with Google Apps Script to create complex apps in Google Sheets.
+### About Me
 
-In my free time, I work on my personal projects, with the most notable one being [my original music and video game music remixes](https://soundcloud.com/tduyduc), [all composed in a way similar to coding](https://www.youtube.com/channel/UCZHREXHRSxg4Lw8i0p4mKrw), which makes myself a "music developer".
+Hi, I'm Trần Duy Đức (given name being Đức, nicknamed T.D. Stoneheart) — a passionate software engineer based in Hanoi, Vietnam. With strong experience in NestJS and TypeScript, I specialize in back-end development. I love solving challenging problems, and am continuously learning new technologies.
 
----
+_Coder, gamer, musician_: I thrive on creativity and curiosity, whether I'm crafting code, composing original music, or exploring new worlds in games. In my free time, I work on personal projects that blend my love for technology and music, including original compositions and video game music remixes.
 
-### Programming & Scripting Languages
+**Highlighted Projects:**
+- [Active Time Battle-based strategy game (research project)](https://github.com/tduyduc/atb-strategy-project)
+- [Lux Music by T.D. Stoneheart: original music releases](https://github.com/tduyduc/luxmusic)
+- Fun animations with [AngularJS](https://github.com/tduyduc/angularjs-bubbles), [P5.js](https://github.com/tduyduc/p5js-starfield), and [ReactJS](https://github.com/tduyduc/reactjs-bubbles)
 
-* JavaScript
-* Google Apps Script
-* TypeScript
-* AutoIt
-* C++
-* SQL
-
----
-
-### Natural Languages
-
-* Vietnamese (native)
-* English (B2 CEFR)
+**Languages:** Vietnamese (native), English (CEFR B2)  
+**Tools:** Neovim, Visual Studio Code, Git
 
 ---
 
-### Version Control
+### Social Links
 
-* Git
-
----
-
-### IDE
-
-* Visual Studio Code
-
----
-
-### Notable Projects
-
-* [Active Time Battle-based strategy game as a research project](https://github.com/tduyduc/atb-strategy-project)
-* [Original music, released as *Lux Music by T.D. Stoneheart* label with a permissive license](https://github.com/tduyduc/luxmusic)
-
----
-
-### Notable Feeble Projects
-
-* [General-purpose snippets](https://github.com/tduyduc/feeble-scripts)
-* Starfield animation, created with [AngularJS](https://github.com/tduyduc/angularjs-starfield) and [P5.js](https://github.com/tduyduc/p5js-starfield)
-* Bubbles animation, created with [AngularJS](https://github.com/tduyduc/angularjs-bubbles) and [ReactJS](https://github.com/tduyduc/reactjs-bubbles)
-
+- GitHub: [tduyduc](https://github.com/tduyduc)
+- Twitter: [@tduyduc](https://twitter.com/tduyduc)
+- Facebook (Music): [Lux Music by T.D. Stoneheart](https://www.facebook.com/LuxMusic.TDStoneheart/)
+- SoundCloud: [tduyduc](https://soundcloud.com/tduyduc)
