@@ -23,7 +23,7 @@ _Coder, gamer, musician_: I thrive on creativity and curiosity, whether I'm craf
 
 ### Technologies & Tools
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?&logo=TypeScript&logoColor=fff) ![NestJS](https://img.shields.io/badge/-NestJS-EA2868) ![Node.js](https://img.shields.io/badge/-Node.js-5FA04E?&logo=node.js&logoColor=fff) ![Neovim](https://img.shields.io/badge/-Neovim-57A143?&logo=Neovim&logoColor=fff) ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-2F80ED) ![Git](https://img.shields.io/badge/-Git-F05032?&logo=Git&logoColor=fff)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?&logo=TypeScript&logoColor=fff) ![NestJS](https://img.shields.io/badge/-NestJS-EA2868) ![Node.js](https://img.shields.io/badge/-Node.js-5FA04E?&logo=node.js&logoColor=fff) ![Neovim](https://img.shields.io/badge/-Neovim-57A143?&logo=Neovim&logoColor=fff) ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-2F80ED) ![Git](https://img.shields.io/badge/-Git-F05032?&logo=Git&logoColor=fff) ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?&logo=Ubuntu&logoColor=fff)
 
 ### Languages
 
