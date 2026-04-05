@@ -19,7 +19,7 @@ Hi, I'm Trần Duy Đức (given name being Đức, nicknamed T.D. Stoneheart) �
 
 _Coder, gamer, musician_: I thrive on creativity and curiosity, whether I'm crafting code, composing original music, or exploring new worlds in games. In my free time, I work on personal projects that blend my love for technology and music, including original compositions and video game music remixes.
 
-![T.D. Stoneheart's GitHub stats](https://github-readme-stats.vercel.app/api?username=tduyduc&theme=merko&show_icons=true&count_private=true) ![T.D. Stoneheart's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tduyduc&layout=compact&theme=merko)
+![T.D. Stoneheart's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=tduyduc&theme=merko&show_icons=true&count_private=true) ![T.D. Stoneheart's top languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tduyduc&layout=compact&theme=merko)
 
 ### Technologies & Tools
 
@@ -27,7 +27,7 @@ _Coder, gamer, musician_: I thrive on creativity and curiosity, whether I'm craf
 
 ### Languages
 
-![Vietnamese (native)](https://img.shields.io/badge/Vietnamese-native-f22) ![English (CEFR B2)](https://img.shields.io/badge/English-CEFR%20B2-05b)
+![Vietnamese (native)](https://img.shields.io/badge/Vietnamese-native-f22) ![English (CEFR B2)](https://img.shields.io/badge/English-CEFR%20B2-05b)  ![Japanese (N4)](https://img.shields.io/badge/Japanese-N4-fee)
 
 ### Highlighted Projects
 
